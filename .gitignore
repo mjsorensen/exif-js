@@ -3,3 +3,10 @@
 /.vimproject
 /Session.vim
 /node_modules
+.idea/$PRODUCT_WORKSPACE_FILE$
+.idea/.gitignore
+.idea/exif-js.iml
+.idea/google-java-format.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
